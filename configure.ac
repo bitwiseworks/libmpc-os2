@@ -240,7 +240,7 @@ AS_IF([test "x$enable_logging" = "xyes"],
 AC_SUBST(MPC_LDFLAGS)
 AC_LIBTOOL_WIN32_DLL
 case $host in
-  *-*-cygwin* | *-*-mingw* | *-*-pw32* | *-*-os2*)
+  *-*-cygwin* | *-*-mingw* | *-*-pw32*)
      MPC_WINDOWS
 esac
 
