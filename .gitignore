@@ -1,0 +1,27 @@
+### These files should get ignored no matter where they appear.
+
+autom4te.cache
+config.h.in~
+
+INSTALL
+Makefile.in
+aclocal.m4
+ar-lib
+compile
+config.guess
+config.sub
+configure
+depcomp
+doc/Makefile.in
+doc/mdate-sh
+doc/texinfo.tex
+install-sh
+ltmain.sh
+m4/libtool.m4
+m4/ltversion.m4
+missing
+src/Makefile.in
+test-driver
+tests/Makefile.in
+tools/Makefile.in
+tools/bench/Makefile.in
